@@ -1,0 +1,4 @@
+#ignorar los temporales de R 
+
+.RData
+Rhistory
